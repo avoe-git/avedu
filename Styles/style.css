@@ -160,7 +160,7 @@ body {
 }
 
 .sidebar .side-menu li.active a {
-    color: var(--success);
+    color: var(--primary);
 }
 
 .sidebar.close .side-menu li a{
