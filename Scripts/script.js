@@ -9,3 +9,22 @@ sideLinks.forEach(item => {
         li.classList.add('active');
     })
 });
+
+const menuBar = document.querySelector('.content nav .toggle');
+const sideBar = document.querySelector('.sidebar');
+
+menuBar.addEventListener('click', () => {
+    sideBar.classList.toggle('close');
+});
+
+
+const toggler = document.getElementById('theme-toggle');
+
+toggler.addEventListener('change', function () {
+    if (this.checked) {
+        document.body.classList.add('light');
+    } else {
+        document.body.classList.remove('light');
+    }
+});
+
