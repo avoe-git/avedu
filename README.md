@@ -1,8 +1,5 @@
-# Preview
-## Dark (default) Theme
-![image](https://github.com/avoe-git/avedu/assets/138335967/3ad8403b-86fe-49f1-b746-ad8aae7dc070)
-## Light Theme
-![image](https://github.com/avoe-git/avedu/assets/138335967/c414433b-f238-4c04-a18e-447ecaff7694)
-# Tutorial
-https://www.youtube.com/watch?v=D88K1esxwuo
-### For more contact me in on DM 
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
